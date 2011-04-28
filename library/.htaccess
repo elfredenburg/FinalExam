@@ -1,0 +1,5 @@
+# @IG-Framework: $Id: .htaccess 48 2010-04-26 19:33:12Z brendanhoward $
+
+#deny from all
+
+redirect 301 library /
